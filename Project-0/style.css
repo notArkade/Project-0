@@ -8,18 +8,18 @@
 .base {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(130deg, #000, rgb(0, 0, 49));
+    background: linear-gradient(130deg, #000, #000031);
     padding: 10px;
 }
 
-.todo-app {
+/* .todo-app {
     width: 100%;
     max-width: 540px;
     background: #fff;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
-}
+} */
 
 
 
